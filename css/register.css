@@ -1,0 +1,22 @@
+
+form{
+    background-color: black;
+    color: white;
+    margin: auto;
+    padding-left: 20px;
+    width: 500px;
+    margin-top: 60px;
+    border-radius: 30px;
+    height: 600px;
+}
+input[type=number],input[type=text],input[type=email],input[type=password],input[type=tel]{
+    border-radius: 20px;
+    border: none;
+}
+button{
+    background-color: lightseagreen;
+    color: white;
+    border-radius: 30px;
+    width: 100px;
+    border: none;
+}

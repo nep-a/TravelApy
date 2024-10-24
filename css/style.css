@@ -1,0 +1,21 @@
+img{
+  width:300px;
+  height:150px;
+
+
+
+}
+img:hover{
+    opacity: 0.8;
+}
+
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    background-color: black;
+    color: red;
+    font-weight: bold;
+    font-size: 80px;
+    text-shadow: 12px 4px 12px white;
+}
